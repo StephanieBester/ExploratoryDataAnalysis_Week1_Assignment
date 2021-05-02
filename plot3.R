@@ -1,6 +1,6 @@
 #set working directory
 setwd(
-        "C:/Users/Ryall & Stephanie/Desktop/Data scientist course/04 Exploratory Data Analysis/Week 1/Assignment"
+        "Your WD"
 )
 
 #import the file
